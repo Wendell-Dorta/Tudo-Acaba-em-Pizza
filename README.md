@@ -118,10 +118,10 @@ tudo-acaba-em-pizza/
 
 Este projeto foi construído colaborativamente pelo time de desenvolvimento:
 
-- [**Antonio Carlos da Silva Alves**](https://github.com/ANTONIO33c) — Modelagem de dados e desenvolvimento de telas de retaguarda Desktop
-- [**Bruno Eduardo Freires da Silva**](https://github.com/BrunoFreires) — Desenvolvimento do módulo Web e integração com banco de dados
-- [**Matheus Silva Berloffe**](https://github.com/berloffe) — Desenvolvimento de regras de negócio e interfaces Web
-- [**Wendell de Souza Dorta**](https://github.com/WendellD3v) — Arquitetura de classes (`ComClassSys`), módulo de reservas, formulários e integração contínua
+- [**Antonio Carlos da Silva Alves**](https://github.com/ANTONIO33c)
+- [**Bruno Eduardo Freires da Silva**](https://github.com/BrunoFreires)
+- [**Matheus Silva Berloffe**](https://github.com/berloffe)
+- [**Wendell de Souza Dorta**](https://github.com/WendellD3v)
 
 ---
 
