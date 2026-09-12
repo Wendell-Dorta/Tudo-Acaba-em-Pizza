@@ -125,7 +125,8 @@ Este projeto foi construído colaborativamente pelo time de desenvolvimento:
 
 ---
 
-## 🔗 Referências Originais e Evolução
+## 🔗 Referências Originais e Repositório Principal
 
-- **Organização Original do Projeto**: [NewTechEmp](https://github.com/NewTechEmp)
-- **Status do Repositório**: Este monorepo mantém o registro completo do histórico de commits da equipe NewTech e serve de base para evolução de código, modernização para .NET Core e demonstração de portfólio por **Wendell Dorta**.
+- **Repositórios da Organização Original do Projeto**: [NewTechEmp (Repositórios)](https://github.com/orgs/NewTechEmp/repositories)
+- **Repositório Monorepo no GitHub**: [Wendell-Dorta/Tudo-Acaba-em-Pizza](https://github.com/Wendell-Dorta/Tudo-Acaba-em-Pizza)
+- **Status e Evolução**: Este monorepo mantém o registro completo do histórico de commits e colaboração da equipe NewTech, servindo como base consolidada para evolução técnica, modernização para .NET Core e demonstração de portfólio por **Wendell Dorta**.
