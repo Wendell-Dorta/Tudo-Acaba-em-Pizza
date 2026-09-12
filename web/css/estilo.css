@@ -1,0 +1,35 @@
+/* Definindo nosso estilo do projeto... */
+
+@charset "utf8";
+
+body{
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-left:0 ;
+}
+.fundofixo{
+    background: url('../images/fundo-moes.jpg') no-repeat fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.fundo-branco{
+    background-color: aliceblue;
+    
+}
+
+.logo {
+    padding-top: 50%;
+}
+
+.marquee {
+    width: 50%;
+    height: 50%;
+    
+}
+
+#pedidos_ao_redor{
+    background-color: blueviolet;
+}
+
+
